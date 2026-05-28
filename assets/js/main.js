@@ -1,4 +1,4 @@
-// Apex Digital - Main JavaScript
+// CLOVER DIGITAL - Main JavaScript
 
 // Mobile Menu Toggle
 const mobileMenuBtn = document.querySelector('.mobile-menu-btn');
